@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CounterShop
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=CounterShop()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getScore()
+numComments=5

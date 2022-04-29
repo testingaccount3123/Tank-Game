@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Choose
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=Choose()
+comment3.params=
+comment3.target=boolean\ reload()
+comment4.params=name
+comment4.target=void\ ban(java.lang.String)
+comment5.params=name
+comment5.target=void\ unban(java.lang.String)
+comment6.params=string
+comment6.target=int\ parse(java.lang.String)
+comment7.params=string
+comment7.target=int\ hash(java.lang.String)
+comment8.params=
+comment8.target=void\ act()
+numComments=9
